@@ -1,0 +1,48 @@
+.col-md-9 {
+	font-size: 16px;
+	line-height: 24px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.col-lg-12 {
+	text-align: center;
+}
+
+.col-md-3 {
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	padding-bottom: 10px;
+}
+
+.col-md-9 {
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+.page-header-1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+
+.page-header-2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
+}
+
+
+.github {
+	width: 100px;
+	height: 100px;
+}
+
+.linkedin {
+	width: 100px;
+	height: 100px;
+}
+
+.stack {
+	width: 100px;
+	height: 100px;
+}

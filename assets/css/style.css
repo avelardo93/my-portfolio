@@ -8,15 +8,15 @@
 	text-align: center;
 }
 
-.col-md-3 {
-	border-bottom-style: solid;
-	border-bottom-width: 1px;
-	padding-bottom: 10px;
+.bio-pic {
+	margin-top: 20px;
 }
 
-.col-md-9 {
-	border-bottom-style: solid;
-	border-bottom-width: 1px;
+.col-md-3 {
+	}
+
+.col-md-6 {
+	
 }
 
 .page-header-1 {
@@ -33,16 +33,16 @@
 
 
 .github {
-	width: 100px;
-	height: 100px;
+	width: 50px;
+	height: 50px;
 }
 
 .linkedin {
-	width: 100px;
-	height: 100px;
+	width: 50px;
+	height: 50px;
 }
 
 .stack {
-	width: 100px;
-	height: 100px;
+	width: 50px;
+	height: 50px;
 }
